@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=y7ea&label=Profile%20views&color=0e75b6&style=flat" alt="y7ea" /> </p>
-<h1 align="center"><!-- <img src="https://acegif.com/wp-content/uploads/2021/4fh5wi/welcome-17.gif" width="25px"> --> Welcome To My Github Profile ♥</h1>
+<h1 align="center"><!-- <img src="https://acegif.com/wp-content/uploads/2021/4fh5wi/welcome-17.gif"> --> Welcome To My Github Profile ♥</h1>
 <!-- # Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Welcome To My Github Profile ♥  -->
 <!-- <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1000px height=95px> -->
 
