@@ -12,8 +12,7 @@
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
 
 <h3>🚀 About Me</h3> 
-<h4> I'm Yahya Haj Ali from Palestine. I'm a Front-End Developer.<br>
-  I really enjoy learning programming languages and frameworks, I also enjoy Implementing designs. At This Moment, I'm junior web developer and I love to learn new things every time. </h4>
+<h4> I'm Yahya Haj Ali and I am a Front-End Developer from Palestine. I am passionate about learning programming languages and frameworks, as well as implementing designs. As a junior web developer, I am always eager to learn new things and improve my skills. I enjoy the challenge of tackling new projects and finding creative solutions to problems. I am excited to continue growing and learning as a developer. </h4>
 
 <img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 45% height=95px>
 
