@@ -9,7 +9,7 @@
 <br/>
 <br/>
 
-<img align="right" src="https://media2.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=790b76110b2df9ae69612c6d47490513f11f456a495789fd&rid=giphy.gif&ct=g" alt="Coder GIF" width="380" height="280">
+<img align="right" src="https://www.web24zone.com/wp-content/uploads/2022/09/2c778e_89d09c380b7b4a09bcdbcb329c4734b3_mv2.gif" alt="Coder GIF" width="380" height="280">
 
 <h3>🚀 About Me</h3> 
 <h4> I'm Yahya Haj Ali and I am a Front-End Developer from Palestine. I am passionate about learning programming languages and frameworks, as well as implementing designs. As a junior web developer, I am always eager to learn new things and improve my skills. I enjoy the challenge of tackling new projects and finding creative solutions to problems. I am excited to continue growing and learning as a developer. </h4>
