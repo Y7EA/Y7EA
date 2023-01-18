@@ -9,7 +9,7 @@
 <br/>
 <br/>
 
-<img align="right" src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47y4c5m763l4w4kgggdltjm7dlt8y12qiygkbt1vt9&rid=giphy.gif&ct=g" alt="Coder GIF" width="350" height="280">
+<img align="right" src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47y4c5m763l4w4kgggdltjm7dlt8y12qiygkbt1vt9&rid=giphy.gif&ct=g" alt="Coder GIF" width="150" height="180">
 
 <h3>🚀 About Me</h3> 
 <h4> I'm Yahya Haj Ali and I am a Front-End Developer from Palestine. I am passionate about learning programming languages and frameworks, as well as implementing designs. As a junior web developer, I am always eager to learn new things and improve my skills. I enjoy the challenge of tackling new projects and finding creative solutions to problems. I am excited to continue growing and learning as a developer. </h4>
