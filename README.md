@@ -14,7 +14,7 @@
 <h3>🚀 About Me</h3> 
 <h4> I'm Yahya Haj Ali and I am a Front-End Developer from Palestine. I am passionate about learning programming languages and frameworks, as well as implementing designs. As a junior web developer, I am always eager to learn new things and improve my skills. I enjoy the challenge of tackling new projects and finding creative solutions to problems. I am excited to continue growing and learning as a developer. </h4>
 
-<img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 45% height=95px>
+<img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 100% height=95px>
 
 ### Languages and Tools 🛠 :
 
@@ -33,7 +33,7 @@
 
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
 
-### 🔗Contact Me
+### 🔗 Contact Me
 
 [![FaceBook](https://img.shields.io/badge/FaceBook-385490?style=for-the-badge&logo=FaceBook&logoColor=white)](https://www.facebook.com/Yahya.Haj.Ali.20)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yahya.ali@students.alquds.edu)](mailto:yahyahajali118@gmail.com)
