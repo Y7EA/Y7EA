@@ -11,6 +11,8 @@
 
 <!-- <img align="right" src="https://raw.githubusercontent.com/Karthikg09/karthikg09/main/github.gif" width=350px height=350px>
  -->
+ <img align="right" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" alt="Coder GIF" width="380" height="280">
+
 <h3>🚀 About Me</h3> 
 <h4> I'm Yahya Haj Ali and I am a Front-End Developer from Palestine. I am passionate about learning programming languages and frameworks, as well as implementing designs. As a junior web developer, I am always eager to learn new things and improve my skills. I enjoy the challenge of tackling new projects and finding creative solutions to problems. I am excited to continue growing and learning as a developer. </h4>
 
